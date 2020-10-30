@@ -5,4 +5,4 @@
 <h2> UPDATE </h2>
 <h2> SUPER CI </h2>
 <h2> sans maven </h2>
-<h2> avec dockerhub </h2>
+<h2> avec dockerhub et push </h2>
